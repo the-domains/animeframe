@@ -1,29 +1,14 @@
-name: AnimeFrame
-favicon: null
-layout_spectrum: 0.63254
-typography_spectrum: 0.14893
-title: Anime Frame
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.6783029
+typography_spectrum: 0.1573576
 color:
+  saturation: 1
+  lightness: 0.4763695
+  brandStrength: 0
   brandColors:
     - '#F3F5F4'
     - '#3495E3'
     - '#505251'
     - '#8EC375'
     - '#82EDFF'
-  brandStrength: 0.8125
-  lightness: 0.5625
-  saturation: 0.5625
-  rhythmicContrast: 1
-purpose: []
+  rhythmicContrast: 0.480666
+name: MyLife
