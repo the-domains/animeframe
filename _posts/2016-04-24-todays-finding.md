@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: "Today's Finding:"
-datePublished: '2016-04-24T07:42:50.306Z'
-dateModified: '2016-04-24T07:41:30.158Z'
+description: "Today's Finding: https://vimeo.com/83795090"
+datePublished: '2016-04-24T07:45:21.598Z'
+dateModified: '2016-04-24T07:45:12.203Z'
 title: ''
 author: []
 authors: []
@@ -18,8 +19,7 @@ publisher:
 starred: false
 sourcePath: _posts/2016-04-24-todays-finding.md
 published: true
-url: todays-finding/index.html
-_type: Article
+_type: Blurb
 
 ---
-Today's Finding:
+Today's Finding: https://vimeo.com/83795090
